@@ -41,7 +41,7 @@ $(call inherit-product, $(DEVICE_PATH)/fox_ossi.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # API
-PRODUCT_SHIPPING_API_LEVEL := 35
+PRODUCT_SHIPPING_API_LEVEL := 34
 
 # Enable Fuse Passthrough
 PRODUCT_PROPERTY_OVERRIDES += persist.sys.fuse.passthrough.enable=true
