@@ -16,6 +16,9 @@
 
 DEVICE_PATH := device/oneplus/ossi
 
+#API
+BOARD_SYSTEMSDK_VERSIONS := 35
+
 # Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-a
