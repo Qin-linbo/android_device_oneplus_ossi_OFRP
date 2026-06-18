@@ -199,6 +199,3 @@ TW_SUPPORT_INPUT_AIDL_HAPTICS_FIX_OFF := true
 # Indicator
 TW_CUSTOM_CPU_TEMP_PATH := "/sys/class/thermal/thermal_zone53/temp"
 TW_BATTERY_SYSFS_WAIT_SECONDS := 6
-PRODUCT_ENABLE_UFFD_GC := true
-PRODUCT_MODEL := ossi
-PRODUCT_PROPERTY_OVERRIDES += ro.zygote=zygote64_32
