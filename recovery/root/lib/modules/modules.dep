@@ -246,6 +246,7 @@
 /lib/modules/irq-dbg.ko:
 /lib/modules/mtk-dvfsrc-devfreq.ko: /lib/modules/mtk-dvfsrc.ko /lib/modules/mtk-scpsys.ko /lib/modules/clk-common.ko /lib/modules/aee_aed.ko
 /lib/modules/clk-mt6991-adsp.ko: /lib/modules/clk-common.ko /lib/modules/aee_aed.ko
+/lib/modules/inte.ko:
 /lib/modules/mtk_low_battery_throttling.ko: /lib/modules/pmic_lvsys_notify.ko /lib/modules/pmic_lbat_service.ko /lib/modules/oplus_bsp_boot_projectinfo.ko /lib/modules/buildvariant.ko /lib/modules/oplusboot.ko /lib/modules/mtk_boot_common.ko
 /lib/modules/8250_mtk.ko: /lib/modules/mtk-uart-apdma.ko
 /lib/modules/drm_dma_helper.ko:
